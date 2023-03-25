@@ -182,6 +182,9 @@ img{
 .img1{
     margin-top:50px;
 }
+.img3{
+    padding:5%;
+    margin-bottom:2%;
 /* .grid-container{
     display:grid;
     grid-template-columns: auto auto auto;
@@ -295,7 +298,7 @@ img{
     width: 100%;
   }
     .img3{
-    padding:5%;
+    padding:0;
     margin-bottom: 2%;
 }
   .fa{
