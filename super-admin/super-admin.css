@@ -294,6 +294,10 @@ img{
   img{
     width: 100%;
   }
+    .img3{
+    padding:5%;
+    margin-bottom: 2%;
+}
   .fa{
     padding-top:29px;
     padding-right:12px;
